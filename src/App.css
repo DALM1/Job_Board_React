@@ -36,3 +36,52 @@
     transform: rotate(360deg);
   }
 }
+
+header {
+  background-color: black;
+  color: white;
+  padding: 30px 0 30px 0;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  padding: 30px 0 30px 0;
+}
+
+h1 {
+  text-align: center;
+}
+
+.jobs {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  /* // background: red; */
+  grid-gap: 30px;
+  margin-top: 40px;
+}
+
+.job {
+  height: 250px;
+  padding: 15px;
+}
+
+.red {
+  border: 10px solid red;
+}
+
+.green {
+  border: 10px solid green;
+}
+
+.yellow {
+  border: 10px solid yellow;
+}
+
+.blue {
+  border: 10px solid blue;
+}
+
+.pink {
+  border: 10px solid pink;
+}
