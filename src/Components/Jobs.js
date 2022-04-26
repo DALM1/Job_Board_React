@@ -11,53 +11,53 @@ const Jobs = () => {
         borderColor="red"
       />
       <Job
-        title="Full Time Sales Associates"
+        title="Agent de Sécurité - Pantin"
+        contractType="CDI"
+        country="France"
+        city="Pantin"
+        borderColor="green"
+      />
+      <Job
+        title="Responsable d'Atelier (H/F)"
+        contractType="CDD"
+        country="France"
+        city="Paris"
+        borderColor="yellow"
+      />
+      <Job
+        title="Chef de Projets"
+        contractType="CDD"
+        country="France"
+        city="Paris"
+        borderColor="blue"
+      />
+      <Job
+        title="Développeur React.js"
+        contractType="CDI"
+        country="Frabce"
+        city="Paris"
+        borderColor="pink"
+      />
+      <Job
+        title="Sales Associates Stockholm"
         contractType="CDI"
         country="Australie"
         city="Sydney"
         borderColor="red"
       />
       <Job
-        title="Full Time Sales Associates"
+        title="Vendeur/se - Crans Montana"
         contractType="CDI"
-        country="Australie"
-        city="Sydney"
-        borderColor="red"
+        country="Crans-Montana"
+        city="Suisse"
+        borderColor="green"
       />
       <Job
-        title="Full Time Sales Associates"
+        title="CRM & Data Quality Analyst"
         contractType="CDI"
-        country="Australie"
-        city="Sydney"
-        borderColor="red"
-      />
-      <Job
-        title="Full Time Sales Associates"
-        contractType="CDI"
-        country="Australie"
-        city="Sydney"
-        borderColor="red"
-      />
-      <Job
-        title="Full Time Sales Associates"
-        contractType="CDI"
-        country="Australie"
-        city="Sydney"
-        borderColor="red"
-      />
-      <Job
-        title="Full Time Sales Associates"
-        contractType="CDI"
-        country="Australie"
-        city="Sydney"
-        borderColor="red"
-      />
-      <Job
-        title="Full Time Sales Associates"
-        contractType="CDI"
-        country="Australie"
-        city="Sydney"
-        borderColor="red"
+        country="USA"
+        city="New-York"
+        borderColor="yellow"
       />
       <Job
         title="Full Time Sales Associates"
